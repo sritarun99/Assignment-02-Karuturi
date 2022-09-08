@@ -32,3 +32,8 @@ This table shows places that should be visited in the cities and time that can b
 |Bend|Paulina Lake and East Lake| 1 day|
 
 -----------
+
+#### my favourite Quotes
+
+> The mind has a powerful way of attracting things that are in harmony with it, good and bad. - *Idowu Koyenikan* <br>
+> Once your mindset changes, everything on the outside will change along with it. - *Steve Maraboli*
