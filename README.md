@@ -37,3 +37,26 @@ This table shows places that should be visited in the cities and time that can b
 
 > The mind has a powerful way of attracting things that are in harmony with it, good and bad. - *Idowu Koyenikan* <br>
 > Once your mindset changes, everything on the outside will change along with it. - *Steve Maraboli*
+
+
+####  code fencing
+
+_____________________________
+
+> Can't load leaflet maps in Wordpress <https://stackoverflow.com/questions/73640639/cant-load-leaflet-maps-in-wordpress>
+
+```WordPress
+
+add_action('admin_head', 'my_custom_fonts');
+
+function my_custom_fonts() {
+  echo '<style>
+    body, td, textarea, input, select {
+      font-family: "Lucida Grande";
+      font-size: 12px;
+    } 
+  </style>';
+}
+
+```
+<https://css-tricks.com/snippets/wordpress/apply-custom-css-to-admin-area/>
