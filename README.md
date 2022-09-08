@@ -17,3 +17,18 @@ The nearest airport to this museum is Shamshabad international airport
 + wonderla amusement park
 
 **[Tarun Information](AboutMe.md)
+
+---------------
+
+### Complete information about Cities that should be visited and explored
+
+This table shows places that should be visited in the cities and time that can be spent there to enjoy.
+
+| City Name|Important Location|Time to spend|
+|----------|------------------|-------------|
+|Charleston|Waterfront Park|8 hrs|
+|Savannah|Forsyth park|6hrs|
+|San Antonio|Waterfront Park| 7hrs|
+|Bend|Paulina Lake and East Lake| 1 day|
+
+-----------
