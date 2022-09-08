@@ -11,3 +11,7 @@ The nearest airport to this museum is Shamshabad international airport
 3. For boarding shuttle ride wait near shuttle ride pick up point.
 4. Board into the shuttle vechicle and then you reach out the museum
 5. Purchase an entry ticket at the entrance gate
+### near by places to visit
++ Nehru zoological park
++ Tankbund
++ wonderla amusement park
